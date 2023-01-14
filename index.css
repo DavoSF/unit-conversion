@@ -81,7 +81,7 @@ blockquote:before, blockquote:after, q:before, q:after {
 
 ::selection {
     background-color: var(--negro);
-    color: var(--beige);
+    color: var(--black);
 }
 
 form, input, textarea, select, button, label {
@@ -157,7 +157,7 @@ input::-webkit-inner-spin-button {
     margin: 0;
 }
 
-.header button {
+.header p {
     background-color: #fff;
     color: #3D3D3D;
     font-size: 1em;
